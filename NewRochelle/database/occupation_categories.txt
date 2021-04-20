@@ -1,0 +1,14 @@
+US census employment industry		Percentage	Consolidation by cateogry
+C1	0.20%	Q
+C2	8.00%	M
+C3	3.70%	GG
+C4	2.80%	M1
+C5	9.10%	J,G, U
+C6	3.80%	P, M2, HH
+C7	2.80%	E
+C8	7.70%	R
+C9	13.00%	DD
+C10	28.50%	F, H, AA, BB, CC, FF
+C11	10.90%	K, N, S, T, Y, Z, EE
+C12	5.60%	L,V
+C13	3.90%	X

@@ -14,7 +14,7 @@ The directories are as follows:
 - `created_communities` - final populations to be used in ABM 
 	- `covid_model` - final population used in the ABM code  
   
-Specific features of all directories are available in their own `README` files.
+In the `src` and `tests` the subdirectories `mobility` contain the code used for ABMs with human mobility. 
 
 ## Database
 
