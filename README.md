@@ -42,4 +42,4 @@ We encourage the users and developers to report any issues, including platform i
 
 If you find this software useful, consider citing
 
-*Truszkowska, A., Thakore, M., Zino, L., Butail, S., Caroppo, E., Jiang, Z.P., Rizzo, A. and Porfiri, M., 2021. Designing the Safe Reopening of US Towns Through High‐Resolution Agent‐Based Modeling. Advanced theory and simulations, p.2100157.*
+*Truszkowska, A., Thakore, M., Zino, L., Butail, S., Caroppo, E., Jiang, Z.P., Rizzo, A. and Porfiri, M., 2021. Designing the Safe Reopening of US Towns Through High‐Resolution Agent‐Based Modeling. Advanced theory and simulations, 4(9) p.2100157.*
