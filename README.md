@@ -37,3 +37,9 @@ Documentation and a user manual will soon be provided.
 ## Notes
 
 We encourage the users and developers to report any issues, including platform incompatibility and failed tests on our GitHub page or directly, by sending us an email.
+
+## Citation
+
+If you find this software useful, consider citing
+
+*Truszkowska, A., Thakore, M., Zino, L., Butail, S., Caroppo, E., Jiang, Z.P., Rizzo, A. and Porfiri, M., 2021. Designing the Safe Reopening of US Towns Through High‐Resolution Agent‐Based Modeling. Advanced theory and simulations, p.2100157.*
